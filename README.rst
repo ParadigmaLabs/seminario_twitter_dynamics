@@ -1,13 +1,13 @@
 Twitter Dynamics. Adquisición, procesado y visualización de datos
 =================================================================
 
-En este repositorio encontrarás la presentación, el código y los datasets que utilizamos en el seminario "" que impartimos en Madrid el día 19 de Enero de 2012.
+En este repositorio encontrarás la presentación, el código y los datasets que utilizamos en el seminario "Twitter Dynamics. Adquisición, procesado y visualización de datos" que impartimos en Madrid el día 19 de Enero de 2012.
 
 Más información: http://www.paradigmatecnologico.com/seminario-twitter-dynamics-adquisicion-procesado-y-visualizacion-de-datos/
 
 Abstract
 --------
-Seminario impartido por Roberto Maestre y F. Javier Alba
+Seminario impartido por Roberto Maestre (https://github.com/rmaestre) y F. Javier Alba (https://github.com/fjavieralba)
 
 Esta charla pretende dar una visión introductoria sobre técnicas de adquisición, procesado y visualización de datos sociales provenientes de Twitter.
 
